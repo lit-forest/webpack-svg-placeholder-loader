@@ -1,0 +1,22 @@
+{
+  "name": "webpack-svg-placeholder-loader",
+  "version": "0.1.0",
+  "description": "convert jpg/png/gif to svg placeholder by webpack loader",
+  "main": "./svg-placeholder-loader.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lit-forest/webpack-svg-placeholder-loader.git"
+  },
+  "dependencies": {
+    "sqip": "^0.3.3"
+  },
+  "keywords": [
+    "sqip",
+    "loader",
+    "webpack",
+    "svg",
+    "placeholder"
+  ],
+  "author": "wrsden@gmail.com",
+  "license": "MIT"
+}
